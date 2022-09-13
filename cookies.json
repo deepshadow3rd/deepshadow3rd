@@ -1,0 +1,488 @@
+{
+    "drissassal@hotmail.com": [
+        {
+            "broker": "Quotex",
+            "dados": {
+                "authtoken": "None",
+                "device_id": "eyJpdiI6IkdwN282Sm0rOXBzeFMyRUluUG81Ymc9PSIsInZhbHVlIjoieEVwMHpqa0xKNldNOENsa1BNRmF5RHV1Z3hlWElzbnU2Tjl5Y0tseGpzYjByMksrN01mTE9sbmNtaFU1UFNKOVR0NDNKV1ZHcDFPMFVreFhTVXFmZG5zQTZyWmJlQWl0bjRISnpjY3B6NVBhczFPUHpFcHBkdC9DRmppYy96TnQiLCJtYWMiOiJlYWQyYzU4MDc5MWFmYjMxMzNiNDdhNDVmZGNiMDE5OGIxYzQ1ZjkzZDJmZjBiMGY2Y2M0ZjE2Yjc4NDQ2NjQ5IiwidGFnIjoiIn0%3D",
+                "retorno": {
+                    "activePromocodes": [
+                        {
+                            "activated": true,
+                            "active_now": true,
+                            "amount": "49.20000000",
+                            "amount_usd": "50.91",
+                            "bonus_id": 427,
+                            "bonus_setting": {
+                                "active": 1,
+                                "cnt_use": 0,
+                                "cnt_user_use": 1,
+                                "cond_factor": 100,
+                                "date_created": "2020-09-29 15:00:56",
+                                "date_from": "",
+                                "date_to": "2030-10-29",
+                                "gift_market_id": 0,
+                                "gift_max_level": 0,
+                                "id": 427,
+                                "is_market": 0,
+                                "is_recommended": 0,
+                                "max_bonus": 500,
+                                "min_amount": 150,
+                                "no_dpst_bonus": 0,
+                                "not_country": "",
+                                "only_country": "",
+                                "param1": 30,
+                                "percent": 30,
+                                "percent_refresh": 10,
+                                "promocode": "DEPOSIT30",
+                                "promocode_distr_id": null,
+                                "repeat": 0,
+                                "type": 1,
+                                "use_affiliate": 0
+                            },
+                            "currency": "EUR",
+                            "cutoff_turnover": "0.00000000",
+                            "date_active": 1,
+                            "date_created": "2022-08-11 13:49:34",
+                            "date_cutoff": null,
+                            "date_deposited": "2022-08-11 13:54:07",
+                            "date_execute": "2022-09-13 00:28:15",
+                            "date_executed": null,
+                            "date_expired": 0,
+                            "deposited": 1,
+                            "dpst_id": 15268734,
+                            "executed": 0,
+                            "expired": 0,
+                            "hold": false,
+                            "id": 1063078,
+                            "label": "DEPOSIT30 (30%)",
+                            "login": 11175835,
+                            "settings": {
+                                "active": 1,
+                                "cnt_use": 0,
+                                "cnt_user_use": 1,
+                                "cond_factor": 100,
+                                "date_created": "2020-09-29 15:00:56",
+                                "date_from": "",
+                                "date_to": "2030-10-29",
+                                "gift_market_id": 0,
+                                "gift_max_level": 0,
+                                "id": 427,
+                                "is_market": 0,
+                                "is_recommended": 0,
+                                "max_bonus": 500,
+                                "min_amount": 150,
+                                "no_dpst_bonus": 0,
+                                "not_country": "",
+                                "only_country": "",
+                                "param1": 30,
+                                "percent": 30,
+                                "percent_refresh": 10,
+                                "promocode": "DEPOSIT30",
+                                "promocode_distr_id": null,
+                                "repeat": 0,
+                                "type": 1,
+                                "use_affiliate": 0
+                            },
+                            "uid": 14613108
+                        }
+                    ],
+                    "avatar": "https://qxbroker.com/profile/images/avatar.svg",
+                    "background": {
+                        "file": null,
+                        "name": null,
+                        "opacity": null
+                    },
+                    "bonus": {
+                        "amount": "49.20000000",
+                        "cond_factor": "100",
+                        "percent": "30",
+                        "turnover": 358.2
+                    },
+                    "countUnreadedMessages": 1,
+                    "countUnreadedNotifications": 1,
+                    "country": "PL",
+                    "countryIp": "PL",
+                    "countryName": "Poland",
+                    "csrf": "zMSZp6mEmQgi6NcBJvqVY0NpvhMFEOexXlJyYoQJ",
+                    "currencies": [
+                        "EUR",
+                        "GBP",
+                        "USD",
+                        "BRL",
+                        "IDR",
+                        "MYR",
+                        "INR",
+                        "KZT",
+                        "RUB",
+                        "THB",
+                        "UAH",
+                        "VND",
+                        "NGN",
+                        "EGP",
+                        "MXN"
+                    ],
+                    "currencyCode": "EUR",
+                    "currencySymbol": "€",
+                    "defaultError": "Ocorreu um erro",
+                    "demoBalance": "246.96000000",
+                    "email": "mrx10250@gmail.com",
+                    "exchangeRates": {
+                        "BRL": 5.159486644449622,
+                        "EGP": 19.610323835377773,
+                        "EUR": 1,
+                        "GBP": 0.8665376862534566,
+                        "IDR": 15062.346160469191,
+                        "INR": 80.38207915075513,
+                        "KZT": 479.27737204096303,
+                        "MXN": 20.092582275660178,
+                        "MYR": 4.561753593387559,
+                        "NGN": 719.9193703594906,
+                        "RUB": 61.40919542558471,
+                        "THB": 36.75891129726608,
+                        "UAH": 37.41782563333772,
+                        "USD": 1.012935182277686,
+                        "VND": 23828.185934382058
+                    },
+                    "firstRegister": null,
+                    "fpjsDomain": "https://vd.qxbroker.com/",
+                    "hasProfileNotifications": false,
+                    "id": "14613108",
+                    "isDemo": 0,
+                    "isHideTradingUI": false,
+                    "lang": "pt",
+                    "langs": {
+                        "ar": {
+                            "active": false,
+                            "code": "sa",
+                            "name": "العربية",
+                            "url": "/ar/trade/"
+                        },
+                        "de": {
+                            "active": false,
+                            "code": "de",
+                            "name": "Deutsch",
+                            "url": "/de/trade/"
+                        },
+                        "en": {
+                            "active": false,
+                            "code": "gb",
+                            "name": "English",
+                            "url": "/en/trade/"
+                        },
+                        "es": {
+                            "active": false,
+                            "code": "es",
+                            "name": "Español",
+                            "url": "/es/trade/"
+                        },
+                        "fa": {
+                            "active": false,
+                            "code": "ir",
+                            "name": "فارسی",
+                            "url": "/fa/trade/"
+                        },
+                        "fl": {
+                            "active": false,
+                            "code": "ph",
+                            "name": "Filipino",
+                            "url": "/fl/trade/"
+                        },
+                        "fr": {
+                            "active": false,
+                            "code": "fr",
+                            "name": "Français",
+                            "url": "/fr/trade/"
+                        },
+                        "hi": {
+                            "active": false,
+                            "code": "in",
+                            "name": "हिन्दी",
+                            "url": "/hi/trade/"
+                        },
+                        "id": {
+                            "active": false,
+                            "code": "id",
+                            "name": "Indonesian",
+                            "url": "/id/trade/"
+                        },
+                        "it": {
+                            "active": false,
+                            "code": "it",
+                            "name": "Italiano",
+                            "url": "/it/trade/"
+                        },
+                        "ms": {
+                            "active": false,
+                            "code": "my",
+                            "name": "Malay",
+                            "url": "/ms/trade/"
+                        },
+                        "pl": {
+                            "active": false,
+                            "code": "pl",
+                            "name": "Polski",
+                            "url": "/pl/trade/"
+                        },
+                        "pt": {
+                            "active": true,
+                            "code": "br",
+                            "name": "Português",
+                            "url": "/pt/trade/"
+                        },
+                        "ru": {
+                            "active": false,
+                            "code": "ru",
+                            "name": "Русский",
+                            "url": "/ru/trade/"
+                        },
+                        "th": {
+                            "active": false,
+                            "code": "th",
+                            "name": "ไทย",
+                            "url": "/th/trade/"
+                        },
+                        "tr": {
+                            "active": false,
+                            "code": "tr",
+                            "name": "Türkçe",
+                            "url": "/tr/trade/"
+                        },
+                        "ua": {
+                            "active": false,
+                            "code": "ua",
+                            "name": "Українська",
+                            "url": "/ua/trade/"
+                        },
+                        "vt": {
+                            "active": false,
+                            "code": "vn",
+                            "name": "Tiếng Việt",
+                            "url": "/vt/trade/"
+                        },
+                        "zh": {
+                            "active": false,
+                            "code": "cn",
+                            "name": "中文",
+                            "url": "/zh/trade/"
+                        }
+                    },
+                    "lastDeposit": {
+                        "amount": "164.00000000",
+                        "date": "11.08.2022"
+                    },
+                    "levelsList": [
+                        0,
+                        840,
+                        4200
+                    ],
+                    "liveBalance": "182.81000000",
+                    "maxDealAmount": 1000,
+                    "maxDemoBalance": 10000,
+                    "minDealAmount": 1,
+                    "minDepositAmount": 10,
+                    "nickname": "#14613108",
+                    "onlyFastAllowed": false,
+                    "possibleBonus": {
+                        "percent": 30,
+                        "promocode": "WELCOME30"
+                    },
+                    "profileLevel": "standart",
+                    "recommendedDepositAmount": 100,
+                    "showTelegramModal": false,
+                    "tgLink": "quotex_pt",
+                    "timeOffset": "3600",
+                    "token": "FaBFBak3JFf9ghxx63geukAV6uQ7Sx9feG0xva44",
+                    "tzlist": [
+                        {
+                            "label": "(UTC-11:00)",
+                            "time": "-11:00",
+                            "value": "-39600"
+                        },
+                        {
+                            "label": "(UTC-10:00)",
+                            "time": "-10:00",
+                            "value": "-36000"
+                        },
+                        {
+                            "label": "(UTC-09:30)",
+                            "time": "-09:30",
+                            "value": "-34200"
+                        },
+                        {
+                            "label": "(UTC-09:00)",
+                            "time": "-09:00",
+                            "value": "-32400"
+                        },
+                        {
+                            "label": "(UTC-08:00)",
+                            "time": "-08:00",
+                            "value": "-28800"
+                        },
+                        {
+                            "label": "(UTC-07:00)",
+                            "time": "-07:00",
+                            "value": "-25200"
+                        },
+                        {
+                            "label": "(UTC-06:00)",
+                            "time": "-06:00",
+                            "value": "-21600"
+                        },
+                        {
+                            "label": "(UTC-05:00)",
+                            "time": "-05:00",
+                            "value": "-18000"
+                        },
+                        {
+                            "label": "(UTC-04:00)",
+                            "time": "-04:00",
+                            "value": "-14400"
+                        },
+                        {
+                            "label": "(UTC-03:30)",
+                            "time": "-03:30",
+                            "value": "-12600"
+                        },
+                        {
+                            "label": "(UTC-03:00)",
+                            "time": "-03:00",
+                            "value": "-10800"
+                        },
+                        {
+                            "label": "(UTC-02:00)",
+                            "time": "-02:00",
+                            "value": "-7200"
+                        },
+                        {
+                            "label": "(UTC-01:00)",
+                            "time": "-01:00",
+                            "value": "-3600"
+                        },
+                        {
+                            "label": "(UTC+00:00)",
+                            "time": "+00:00",
+                            "value": "0"
+                        },
+                        {
+                            "label": "(UTC+01:00)",
+                            "time": "+01:00",
+                            "value": "3600"
+                        },
+                        {
+                            "label": "(UTC+02:00)",
+                            "time": "+02:00",
+                            "value": "7200"
+                        },
+                        {
+                            "label": "(UTC+03:00)",
+                            "time": "+03:00",
+                            "value": "10800"
+                        },
+                        {
+                            "label": "(UTC+03:30)",
+                            "time": "+03:30",
+                            "value": "12600"
+                        },
+                        {
+                            "label": "(UTC+04:00)",
+                            "time": "+04:00",
+                            "value": "14400"
+                        },
+                        {
+                            "label": "(UTC+04:30)",
+                            "time": "+04:30",
+                            "value": "16200"
+                        },
+                        {
+                            "label": "(UTC+05:00)",
+                            "time": "+05:00",
+                            "value": "18000"
+                        },
+                        {
+                            "label": "(UTC+05:30)",
+                            "time": "+05:30",
+                            "value": "19800"
+                        },
+                        {
+                            "label": "(UTC+05:45)",
+                            "time": "+05:45",
+                            "value": "20700"
+                        },
+                        {
+                            "label": "(UTC+06:00)",
+                            "time": "+06:00",
+                            "value": "21600"
+                        },
+                        {
+                            "label": "(UTC+06:30)",
+                            "time": "+06:30",
+                            "value": "23400"
+                        },
+                        {
+                            "label": "(UTC+07:00)",
+                            "time": "+07:00",
+                            "value": "25200"
+                        },
+                        {
+                            "label": "(UTC+08:00)",
+                            "time": "+08:00",
+                            "value": "28800"
+                        },
+                        {
+                            "label": "(UTC+08:45)",
+                            "time": "+08:45",
+                            "value": "31500"
+                        },
+                        {
+                            "label": "(UTC+09:00)",
+                            "time": "+09:00",
+                            "value": "32400"
+                        },
+                        {
+                            "label": "(UTC+09:30)",
+                            "time": "+09:30",
+                            "value": "34200"
+                        },
+                        {
+                            "label": "(UTC+10:00)",
+                            "time": "+10:00",
+                            "value": "36000"
+                        },
+                        {
+                            "label": "(UTC+10:30)",
+                            "time": "+10:30",
+                            "value": "37800"
+                        },
+                        {
+                            "label": "(UTC+11:00)",
+                            "time": "+11:00",
+                            "value": "39600"
+                        },
+                        {
+                            "label": "(UTC+12:00)",
+                            "time": "+12:00",
+                            "value": "43200"
+                        },
+                        {
+                            "label": "(UTC+13:00)",
+                            "time": "+13:00",
+                            "value": "46800"
+                        },
+                        {
+                            "label": "(UTC+13:45)",
+                            "time": "+13:45",
+                            "value": "49500"
+                        },
+                        {
+                            "label": "(UTC+14:00)",
+                            "time": "+14:00",
+                            "value": "50400"
+                        }
+                    ],
+                    "url": "https://qxbroker.com/pt/"
+                }
+            }
+        }
+    ]
+}
